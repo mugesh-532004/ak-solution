@@ -36,7 +36,7 @@ function EsevaiPage() {
   const requirements = [
     '📋 Form-18 (Applicant Declaration)',
     '📜 Copy of Aadhaar/Voter ID/Driving License',
-    '🏪 Proof of business premises (rent agreement/ownership)',
+    '🏪 Proof of busineserewrews premises (rent agreement/ownership)',
     '💻 Computer & Internet setup',
     '📞 Working phone number    ',
     '🏦 Bank account details',
